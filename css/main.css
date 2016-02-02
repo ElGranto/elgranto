@@ -67,6 +67,11 @@ a {
 }
   a:hover {text-decoration:underline;}
 
+.alignleft {float:left;}
+  img.alignleft {margin:0 10px 10px 0;}
+.alignright {float: right;}
+  img.alignright {margin:0 0 10px 10px;}
+
 
 /* == Structure ==*/
 
@@ -150,6 +155,12 @@ footer {
     color: #666370;
     text-decoration: none;
   }
+
+#staticContent {width:68%; float:left; padding:5%; background:#fff; height:100%;}
+
+.staticArticle p:first-child {
+  margin-top: 0;
+}
 
 /* == Typeography ==*/
 
