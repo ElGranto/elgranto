@@ -5,6 +5,4 @@ $( document ).ready(function() {
   // $('.slides article a').css({'height':slideWidth+'px'});
   // $('.slides article').css({'background-size':slideWidth+'px'});
   
-  
 });
-
